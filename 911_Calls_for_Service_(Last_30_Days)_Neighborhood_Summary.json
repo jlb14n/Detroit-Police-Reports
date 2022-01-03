@@ -1,0 +1,1244 @@
+[
+    {
+        "Neighborhood": "Airport Sub",
+        "Average Total Response Time": 9.18831168831169,
+        "Average Dispatch Time": 6.406867469879522,
+        "Average Total Time": 36.63356643356642
+    },
+    {
+        "Neighborhood": "Arden Park",
+        "Average Total Response Time": 5.225,
+        "Average Dispatch Time": 1.72,
+        "Average Total Time": 13.379999999999999
+    },
+    {
+        "Neighborhood": "Aviation Sub",
+        "Average Total Response Time": 17.063963963963968,
+        "Average Dispatch Time": 11.161000000000001,
+        "Average Total Time": 42.686363636363645
+    },
+    {
+        "Neighborhood": "Bagley",
+        "Average Total Response Time": 10.982601626016264,
+        "Average Dispatch Time": 7.7484797297297225,
+        "Average Total Time": 36.44935483870966
+    },
+    {
+        "Neighborhood": "Barton-McFarland",
+        "Average Total Response Time": 17.766911764705863,
+        "Average Dispatch Time": 11.801543209876542,
+        "Average Total Time": 47.275109809663235
+    },
+    {
+        "Neighborhood": "Belle Isle",
+        "Average Total Response Time": 0.0,
+        "Average Dispatch Time": 1.9166666666666667,
+        "Average Total Time": 18.32
+    },
+    {
+        "Neighborhood": "Belmont",
+        "Average Total Response Time": 10.541899441340783,
+        "Average Dispatch Time": 7.297660818713453,
+        "Average Total Time": 42.82458100558658
+    },
+    {
+        "Neighborhood": "Berg-Lahser",
+        "Average Total Response Time": 20.370224719101127,
+        "Average Dispatch Time": 15.452941176470583,
+        "Average Total Time": 45.67288135593221
+    },
+    {
+        "Neighborhood": "Bethune Community",
+        "Average Total Response Time": 13.165675057208242,
+        "Average Dispatch Time": 8.735468564650061,
+        "Average Total Time": 42.14251700680276
+    },
+    {
+        "Neighborhood": "Blackstone Park",
+        "Average Total Response Time": 19.43863636363636,
+        "Average Dispatch Time": 14.688888888888892,
+        "Average Total Time": 47.68297872340426
+    },
+    {
+        "Neighborhood": "Boston Edison",
+        "Average Total Response Time": 7.52093023255814,
+        "Average Dispatch Time": 4.183064516129032,
+        "Average Total Time": 29.5108527131783
+    },
+    {
+        "Neighborhood": "Boynton",
+        "Average Total Response Time": 14.37386363636364,
+        "Average Dispatch Time": 6.634979423868314,
+        "Average Total Time": 48.20631970260222
+    },
+    {
+        "Neighborhood": "Brewster Homes",
+        "Average Total Response Time": 13.113636363636362,
+        "Average Dispatch Time": 7.389473684210526,
+        "Average Total Time": 45.84090909090909
+    },
+    {
+        "Neighborhood": "Brightmoor",
+        "Average Total Response Time": 12.972325581395346,
+        "Average Dispatch Time": 8.447539015606244,
+        "Average Total Time": 45.940809248554906
+    },
+    {
+        "Neighborhood": "Brush Park",
+        "Average Total Response Time": 3.4659638554216867,
+        "Average Dispatch Time": 2.1595092024539877,
+        "Average Total Time": 20.581570996978876
+    },
+    {
+        "Neighborhood": "Buffalo Charles",
+        "Average Total Response Time": 15.206467661691542,
+        "Average Dispatch Time": 10.686702127659577,
+        "Average Total Time": 41.85268292682925
+    },
+    {
+        "Neighborhood": "Butler",
+        "Average Total Response Time": 6.909248554913295,
+        "Average Dispatch Time": 5.312422360248446,
+        "Average Total Time": 28.386705202312122
+    },
+    {
+        "Neighborhood": "Cadillac Community",
+        "Average Total Response Time": 5.753174603174604,
+        "Average Dispatch Time": 3.536885245901639,
+        "Average Total Time": 24.04841269841269
+    },
+    {
+        "Neighborhood": "Cadillac Heights",
+        "Average Total Response Time": 10.91496598639456,
+        "Average Dispatch Time": 7.464335664335665,
+        "Average Total Time": 42.86339869281046
+    },
+    {
+        "Neighborhood": "Campau/Banglatown",
+        "Average Total Response Time": 14.265833333333331,
+        "Average Dispatch Time": 10.289830508474573,
+        "Average Total Time": 39.39674796747969
+    },
+    {
+        "Neighborhood": "Carbon Works",
+        "Average Total Response Time": 8.811111111111112,
+        "Average Dispatch Time": 4.473333333333333,
+        "Average Total Time": 47.44444444444444
+    },
+    {
+        "Neighborhood": "Castle Rouge",
+        "Average Total Response Time": 30.019354838709678,
+        "Average Dispatch Time": 22.05892857142857,
+        "Average Total Time": 55.13968253968253
+    },
+    {
+        "Neighborhood": "Central Southwest",
+        "Average Total Response Time": 4.605296610169488,
+        "Average Dispatch Time": 2.3127612761276133,
+        "Average Total Time": 23.07557651991613
+    },
+    {
+        "Neighborhood": "Chadsey Condon",
+        "Average Total Response Time": 9.50546218487395,
+        "Average Dispatch Time": 5.706607929515417,
+        "Average Total Time": 34.3545073375262
+    },
+    {
+        "Neighborhood": "Chalfonte",
+        "Average Total Response Time": 10.150331125827817,
+        "Average Dispatch Time": 5.131250000000001,
+        "Average Total Time": 32.703311258278134
+    },
+    {
+        "Neighborhood": "Chandler Park",
+        "Average Total Response Time": 9.331491712707178,
+        "Average Dispatch Time": 7.522471910112359,
+        "Average Total Time": 36.671666666666646
+    },
+    {
+        "Neighborhood": "Chandler Park-Chalmers",
+        "Average Total Response Time": 10.342268041237112,
+        "Average Dispatch Time": 5.828888888888888,
+        "Average Total Time": 34.77448979591836
+    },
+    {
+        "Neighborhood": "Claytown",
+        "Average Total Response Time": 7.134100877192987,
+        "Average Dispatch Time": 4.141791044776121,
+        "Average Total Time": 34.73336968375136
+    },
+    {
+        "Neighborhood": "College Park",
+        "Average Total Response Time": 8.568526466380535,
+        "Average Dispatch Time": 5.455555555555558,
+        "Average Total Time": 29.72031029619185
+    },
+    {
+        "Neighborhood": "Conant Gardens",
+        "Average Total Response Time": 4.388888888888889,
+        "Average Dispatch Time": 2.7092198581560285,
+        "Average Total Time": 21.218749999999993
+    },
+    {
+        "Neighborhood": "Conner Creek",
+        "Average Total Response Time": 11.873784355179696,
+        "Average Dispatch Time": 8.176739130434786,
+        "Average Total Time": 32.0624203821656
+    },
+    {
+        "Neighborhood": "Conner Creek Industrial",
+        "Average Total Response Time": 9.752564102564103,
+        "Average Dispatch Time": 8.610666666666667,
+        "Average Total Time": 33.62292993630573
+    },
+    {
+        "Neighborhood": "Core City",
+        "Average Total Response Time": 4.841826923076922,
+        "Average Dispatch Time": 2.289175257731959,
+        "Average Total Time": 27.589855072463756
+    },
+    {
+        "Neighborhood": "Corktown",
+        "Average Total Response Time": 3.532150313152401,
+        "Average Dispatch Time": 2.0350951374207185,
+        "Average Total Time": 21.338461538461537
+    },
+    {
+        "Neighborhood": "Cornerstone Village",
+        "Average Total Response Time": 14.75160256410257,
+        "Average Dispatch Time": 9.579401993355479,
+        "Average Total Time": 50.868386023294555
+    },
+    {
+        "Neighborhood": "Crary/St Marys",
+        "Average Total Response Time": 18.8057939914163,
+        "Average Dispatch Time": 14.3955456570156,
+        "Average Total Time": 53.90233050847465
+    },
+    {
+        "Neighborhood": "Cultural Center",
+        "Average Total Response Time": 3.4264094955489615,
+        "Average Dispatch Time": 1.7623853211009184,
+        "Average Total Time": 30.537797619047627
+    },
+    {
+        "Neighborhood": "Davison",
+        "Average Total Response Time": 3.1558333333333337,
+        "Average Dispatch Time": 2.254174397031539,
+        "Average Total Time": 18.93477868112015
+    },
+    {
+        "Neighborhood": "Davison-Schoolcraft",
+        "Average Total Response Time": 7.368750000000001,
+        "Average Dispatch Time": 4.1866666666666665,
+        "Average Total Time": 27.239751552795035
+    },
+    {
+        "Neighborhood": "Delray",
+        "Average Total Response Time": 1.7576437587657785,
+        "Average Dispatch Time": 0.8599717114568598,
+        "Average Total Time": 15.556118143459939
+    },
+    {
+        "Neighborhood": "Denby",
+        "Average Total Response Time": 17.36806282722513,
+        "Average Dispatch Time": 12.190000000000001,
+        "Average Total Time": 52.87187500000004
+    },
+    {
+        "Neighborhood": "Detroit Golf",
+        "Average Total Response Time": 12.821875,
+        "Average Dispatch Time": 9.641935483870967,
+        "Average Total Time": 37.928124999999994
+    },
+    {
+        "Neighborhood": "Dexter-Fenkell",
+        "Average Total Response Time": 6.917621145374451,
+        "Average Dispatch Time": 4.292857142857143,
+        "Average Total Time": 21.388495575221228
+    },
+    {
+        "Neighborhood": "Dexter-Linwood",
+        "Average Total Response Time": 8.390799561883894,
+        "Average Dispatch Time": 4.8770301624129955,
+        "Average Total Time": 30.781045751633975
+    },
+    {
+        "Neighborhood": "Douglass",
+        "Average Total Response Time": 1.8368421052631578,
+        "Average Dispatch Time": 0.325,
+        "Average Total Time": 39.847368421052636
+    },
+    {
+        "Neighborhood": "Downtown",
+        "Average Total Response Time": 4.023148148148152,
+        "Average Dispatch Time": 2.2195263628239528,
+        "Average Total Time": 27.214442493415227
+    },
+    {
+        "Neighborhood": "East Canfield",
+        "Average Total Response Time": 10.907692307692308,
+        "Average Dispatch Time": 8.184,
+        "Average Total Time": 33.32307692307692
+    },
+    {
+        "Neighborhood": "East English Village",
+        "Average Total Response Time": 7.761607142857139,
+        "Average Dispatch Time": 5.4032710280373815,
+        "Average Total Time": 32.93333333333335
+    },
+    {
+        "Neighborhood": "East Village",
+        "Average Total Response Time": 14.861872146118728,
+        "Average Dispatch Time": 10.887323943661972,
+        "Average Total Time": 43.48810068649888
+    },
+    {
+        "Neighborhood": "Eastern Market",
+        "Average Total Response Time": 1.0216592780240659,
+        "Average Dispatch Time": 0.6419211195928755,
+        "Average Total Time": 14.964045656309464
+    },
+    {
+        "Neighborhood": "Eden Gardens",
+        "Average Total Response Time": 10.036936936936934,
+        "Average Dispatch Time": 6.758139534883721,
+        "Average Total Time": 37.16000000000002
+    },
+    {
+        "Neighborhood": "Elijah McCoy",
+        "Average Total Response Time": 9.097857142857144,
+        "Average Dispatch Time": 4.46842105263158,
+        "Average Total Time": 32.536879432624104
+    },
+    {
+        "Neighborhood": "Eliza Howell",
+        "Average Total Response Time": 19.758163265306123,
+        "Average Dispatch Time": 11.907526881720429,
+        "Average Total Time": 56.89494949494951
+    },
+    {
+        "Neighborhood": "Elmwood Park",
+        "Average Total Response Time": 12.382865168539327,
+        "Average Dispatch Time": 9.436470588235299,
+        "Average Total Time": 39.63649025069643
+    },
+    {
+        "Neighborhood": "Evergreen Lahser 7/8",
+        "Average Total Response Time": 17.468669527897006,
+        "Average Dispatch Time": 13.175784753363233,
+        "Average Total Time": 44.51115879828324
+    },
+    {
+        "Neighborhood": "Evergreen-Outer Drive",
+        "Average Total Response Time": 10.233383233532935,
+        "Average Dispatch Time": 8.14365325077399,
+        "Average Total Time": 30.76393442622956
+    },
+    {
+        "Neighborhood": "Far West Detroit",
+        "Average Total Response Time": 16.708536585365852,
+        "Average Dispatch Time": 10.61375,
+        "Average Total Time": 43.99638554216868
+    },
+    {
+        "Neighborhood": "Farwell",
+        "Average Total Response Time": 6.514448669201517,
+        "Average Dispatch Time": 4.816339869281047,
+        "Average Total Time": 26.297345132743374
+    },
+    {
+        "Neighborhood": "Fiskhorn",
+        "Average Total Response Time": 12.552525252525252,
+        "Average Dispatch Time": 6.56276595744681,
+        "Average Total Time": 43.94747474747475
+    },
+    {
+        "Neighborhood": "Fitzgerald/Marygrove",
+        "Average Total Response Time": 17.664096916299556,
+        "Average Dispatch Time": 12.12867132867132,
+        "Average Total Time": 47.137802197802195
+    },
+    {
+        "Neighborhood": "Five Points",
+        "Average Total Response Time": 21.39613526570048,
+        "Average Dispatch Time": 16.903535353535354,
+        "Average Total Time": 48.386956521739144
+    },
+    {
+        "Neighborhood": "Forest Park",
+        "Average Total Response Time": 5.808097165991905,
+        "Average Dispatch Time": 3.5957446808510634,
+        "Average Total Time": 25.86963562753037
+    },
+    {
+        "Neighborhood": "Fox Creek",
+        "Average Total Response Time": 9.490865384615388,
+        "Average Dispatch Time": 6.296551724137931,
+        "Average Total Time": 34.87699757869252
+    },
+    {
+        "Neighborhood": "Franklin",
+        "Average Total Response Time": 8.670557029177722,
+        "Average Dispatch Time": 5.936756756756755,
+        "Average Total Time": 35.62868217054263
+    },
+    {
+        "Neighborhood": "Franklin Park",
+        "Average Total Response Time": 5.146759259259261,
+        "Average Dispatch Time": 3.4153238546603477,
+        "Average Total Time": 22.31066804764367
+    },
+    {
+        "Neighborhood": "Garden Homes",
+        "Average Total Response Time": 27.343809523809533,
+        "Average Dispatch Time": 20.053061224489795,
+        "Average Total Time": 62.433962264150935
+    },
+    {
+        "Neighborhood": "Garden View",
+        "Average Total Response Time": 9.382113821138214,
+        "Average Dispatch Time": 5.166942148760331,
+        "Average Total Time": 36.91475409836066
+    },
+    {
+        "Neighborhood": "Gateway Community",
+        "Average Total Response Time": 6.382949308755758,
+        "Average Dispatch Time": 2.9483091787439624,
+        "Average Total Time": 29.31889400921657
+    },
+    {
+        "Neighborhood": "Gold Coast",
+        "Average Total Response Time": 7.226415094339624,
+        "Average Dispatch Time": 3.9705882352941173,
+        "Average Total Time": 35.83457943925232
+    },
+    {
+        "Neighborhood": "Grand River-I96",
+        "Average Total Response Time": 4.017285156249999,
+        "Average Dispatch Time": 2.926108374384238,
+        "Average Total Time": 20.399418604651185
+    },
+    {
+        "Neighborhood": "Grand River-St Marys",
+        "Average Total Response Time": 16.081735159817356,
+        "Average Dispatch Time": 11.228703703703705,
+        "Average Total Time": 42.50810810810811
+    },
+    {
+        "Neighborhood": "Grandmont",
+        "Average Total Response Time": 8.873913043478263,
+        "Average Dispatch Time": 5.260606060606061,
+        "Average Total Time": 40.87971014492751
+    },
+    {
+        "Neighborhood": "Grandmont #1",
+        "Average Total Response Time": 15.356862745098038,
+        "Average Dispatch Time": 11.46,
+        "Average Total Time": 46.58846153846153
+    },
+    {
+        "Neighborhood": "Grant",
+        "Average Total Response Time": 1.0536557282671273,
+        "Average Dispatch Time": 0.6335263462651994,
+        "Average Total Time": 15.37247547605308
+    },
+    {
+        "Neighborhood": "Gratiot Town/Ketterring",
+        "Average Total Response Time": 6.863870967741936,
+        "Average Dispatch Time": 4.196699669966995,
+        "Average Total Time": 34.529967426710115
+    },
+    {
+        "Neighborhood": "Gratiot Woods",
+        "Average Total Response Time": 15.199130434782608,
+        "Average Dispatch Time": 11.047272727272723,
+        "Average Total Time": 53.446956521739125
+    },
+    {
+        "Neighborhood": "Gratiot-Findlay",
+        "Average Total Response Time": 2.5431737588652488,
+        "Average Dispatch Time": 1.5042228212039535,
+        "Average Total Time": 18.724000000000004
+    },
+    {
+        "Neighborhood": "Gratiot-Grand",
+        "Average Total Response Time": 7.786046511627908,
+        "Average Dispatch Time": 5.373315363881402,
+        "Average Total Time": 29.522564102564104
+    },
+    {
+        "Neighborhood": "Greektown",
+        "Average Total Response Time": 0.5851908396946565,
+        "Average Dispatch Time": 0.17156105100463678,
+        "Average Total Time": 24.43358778625955
+    },
+    {
+        "Neighborhood": "Green Acres",
+        "Average Total Response Time": 17.706578947368417,
+        "Average Dispatch Time": 12.16338028169014,
+        "Average Total Time": 47.584415584415595
+    },
+    {
+        "Neighborhood": "Greenfield",
+        "Average Total Response Time": 16.328231292517017,
+        "Average Dispatch Time": 11.142882249560635,
+        "Average Total Time": 41.37201365187714
+    },
+    {
+        "Neighborhood": "Greenfield Park",
+        "Average Total Response Time": 4.673195876288659,
+        "Average Dispatch Time": 1.235955056179775,
+        "Average Total Time": 38.71568627450982
+    },
+    {
+        "Neighborhood": "Greenfield-Grand River",
+        "Average Total Response Time": 12.990116279069765,
+        "Average Dispatch Time": 8.8722891566265,
+        "Average Total Time": 46.881976744186055
+    },
+    {
+        "Neighborhood": "Greenwich",
+        "Average Total Response Time": 8.663218390804598,
+        "Average Dispatch Time": 5.151724137931034,
+        "Average Total Time": 39.69101123595506
+    },
+    {
+        "Neighborhood": "Grixdale Farms",
+        "Average Total Response Time": 22.017829457364346,
+        "Average Dispatch Time": 17.16456692913386,
+        "Average Total Time": 60.10461538461538
+    },
+    {
+        "Neighborhood": "Happy Homes",
+        "Average Total Response Time": 5.998484848484848,
+        "Average Dispatch Time": 4.0984848484848495,
+        "Average Total Time": 29.55846153846154
+    },
+    {
+        "Neighborhood": "Harmony Village",
+        "Average Total Response Time": 14.877337110481584,
+        "Average Dispatch Time": 9.814999999999998,
+        "Average Total Time": 43.62674094707522
+    },
+    {
+        "Neighborhood": "Hawthorne Park",
+        "Average Total Response Time": 7.414012738853501,
+        "Average Dispatch Time": 5.6381578947368425,
+        "Average Total Time": 22.445859872611443
+    },
+    {
+        "Neighborhood": "Henry Ford",
+        "Average Total Response Time": 12.403703703703709,
+        "Average Dispatch Time": 7.683406113537119,
+        "Average Total Time": 48.45573770491802
+    },
+    {
+        "Neighborhood": "Herman Kiefer",
+        "Average Total Response Time": 11.157894736842104,
+        "Average Dispatch Time": 6.720588235294118,
+        "Average Total Time": 37.17631578947368
+    },
+    {
+        "Neighborhood": "Historic Atkinson",
+        "Average Total Response Time": 4.279999999999999,
+        "Average Dispatch Time": 1.2333333333333332,
+        "Average Total Time": 43.794444444444444
+    },
+    {
+        "Neighborhood": "Holcomb Community",
+        "Average Total Response Time": 13.089031078610605,
+        "Average Dispatch Time": 9.813688212927756,
+        "Average Total Time": 35.78105646630239
+    },
+    {
+        "Neighborhood": "Hubbard Farms",
+        "Average Total Response Time": 5.008849557522124,
+        "Average Dispatch Time": 2.717592592592592,
+        "Average Total Time": 33.9086956521739
+    },
+    {
+        "Neighborhood": "Hubbard Richard",
+        "Average Total Response Time": 7.325925925925928,
+        "Average Dispatch Time": 2.424,
+        "Average Total Time": 53.153571428571425
+    },
+    {
+        "Neighborhood": "Hubbell-Lyndon",
+        "Average Total Response Time": 10.184102564102563,
+        "Average Dispatch Time": 7.543631436314364,
+        "Average Total Time": 33.941116751269064
+    },
+    {
+        "Neighborhood": "Hubbell-Puritan",
+        "Average Total Response Time": 13.90379146919431,
+        "Average Dispatch Time": 9.139195979899496,
+        "Average Total Time": 36.874038461538454
+    },
+    {
+        "Neighborhood": "Indian Village",
+        "Average Total Response Time": 3.4818181818181815,
+        "Average Dispatch Time": 2.4876923076923076,
+        "Average Total Time": 21.322727272727274
+    },
+    {
+        "Neighborhood": "Islandview",
+        "Average Total Response Time": 7.1298482293423255,
+        "Average Dispatch Time": 4.121565217391302,
+        "Average Total Time": 32.09983164983162
+    },
+    {
+        "Neighborhood": "Jamison",
+        "Average Total Response Time": 7.364473684210527,
+        "Average Dispatch Time": 3.951470588235294,
+        "Average Total Time": 33.2828947368421
+    },
+    {
+        "Neighborhood": "Jefferson Chalmers",
+        "Average Total Response Time": 12.661992619926199,
+        "Average Dispatch Time": 9.029961089494162,
+        "Average Total Time": 42.64777777777777
+    },
+    {
+        "Neighborhood": "Jeffries",
+        "Average Total Response Time": 3.4791262135922336,
+        "Average Dispatch Time": 2.0822660098522165,
+        "Average Total Time": 19.074396135265705
+    },
+    {
+        "Neighborhood": "Joseph Berry Sub",
+        "Average Total Response Time": 35.05714285714286,
+        "Average Dispatch Time": 27.550000000000004,
+        "Average Total Time": 52.99285714285714
+    },
+    {
+        "Neighborhood": "Joy Community",
+        "Average Total Response Time": 7.322109826589593,
+        "Average Dispatch Time": 5.059050445103855,
+        "Average Total Time": 32.815484804630934
+    },
+    {
+        "Neighborhood": "Joy-Schaefer",
+        "Average Total Response Time": 36.441428571428574,
+        "Average Dispatch Time": 29.206451612903226,
+        "Average Total Time": 73.76428571428573
+    },
+    {
+        "Neighborhood": "Krainz Woods",
+        "Average Total Response Time": 8.622837370242213,
+        "Average Dispatch Time": 5.799277978339351,
+        "Average Total Time": 30.120547945205455
+    },
+    {
+        "Neighborhood": "LaSalle College Park",
+        "Average Total Response Time": 13.357983193277308,
+        "Average Dispatch Time": 7.6068965517241365,
+        "Average Total Time": 39.122131147541
+    },
+    {
+        "Neighborhood": "LaSalle Gardens",
+        "Average Total Response Time": 6.155882352941176,
+        "Average Dispatch Time": 3.476288659793815,
+        "Average Total Time": 23.11470588235293
+    },
+    {
+        "Neighborhood": "Lafayette Park",
+        "Average Total Response Time": 4.744961240310078,
+        "Average Dispatch Time": 2.8943775100401603,
+        "Average Total Time": 24.969498069498066
+    },
+    {
+        "Neighborhood": "Littlefield Community",
+        "Average Total Response Time": 20.270192307692305,
+        "Average Dispatch Time": 14.560204081632651,
+        "Average Total Time": 58.49619047619051
+    },
+    {
+        "Neighborhood": "Mapleridge",
+        "Average Total Response Time": 10.954172560113152,
+        "Average Dispatch Time": 8.08666666666666,
+        "Average Total Time": 41.55905292479105
+    },
+    {
+        "Neighborhood": "Marina District",
+        "Average Total Response Time": 7.635294117647059,
+        "Average Dispatch Time": 5.56875,
+        "Average Total Time": 37.741379310344826
+    },
+    {
+        "Neighborhood": "Martin Park",
+        "Average Total Response Time": 21.680769230769226,
+        "Average Dispatch Time": 15.030327868852456,
+        "Average Total Time": 53.61136363636363
+    },
+    {
+        "Neighborhood": "McDougall-Hunt",
+        "Average Total Response Time": 5.961857379767826,
+        "Average Dispatch Time": 4.043003412969283,
+        "Average Total Time": 28.29357495881384
+    },
+    {
+        "Neighborhood": "McDowell",
+        "Average Total Response Time": 19.540206185567012,
+        "Average Dispatch Time": 13.356701030927834,
+        "Average Total Time": 42.2783505154639
+    },
+    {
+        "Neighborhood": "McNichols Evergreen",
+        "Average Total Response Time": 9.771333333333333,
+        "Average Dispatch Time": 6.414074074074075,
+        "Average Total Time": 34.721854304635734
+    },
+    {
+        "Neighborhood": "Medbury Park",
+        "Average Total Response Time": 1.1945652173913044,
+        "Average Dispatch Time": 0.36818181818181817,
+        "Average Total Time": 18.2904255319149
+    },
+    {
+        "Neighborhood": "Medical Center",
+        "Average Total Response Time": 7.1405263157894705,
+        "Average Dispatch Time": 3.4183333333333303,
+        "Average Total Time": 45.45483028720625
+    },
+    {
+        "Neighborhood": "Melvern Hill",
+        "Average Total Response Time": 5.949999999999999,
+        "Average Dispatch Time": 2.3862745098039215,
+        "Average Total Time": 29.192000000000007
+    },
+    {
+        "Neighborhood": "Mexicantown",
+        "Average Total Response Time": 5.7375,
+        "Average Dispatch Time": 3.5217391304347827,
+        "Average Total Time": 20.632608695652173
+    },
+    {
+        "Neighborhood": "Michigan-Martin",
+        "Average Total Response Time": 4.338749999999999,
+        "Average Dispatch Time": 2.236708860759494,
+        "Average Total Time": 25.463750000000005
+    },
+    {
+        "Neighborhood": "Midtown",
+        "Average Total Response Time": 2.767783829074152,
+        "Average Dispatch Time": 1.349584245076585,
+        "Average Total Time": 27.826772310258562
+    },
+    {
+        "Neighborhood": "Midwest",
+        "Average Total Response Time": 9.170749279538905,
+        "Average Dispatch Time": 4.946865671641787,
+        "Average Total Time": 35.17856115107915
+    },
+    {
+        "Neighborhood": "Miller Grove",
+        "Average Total Response Time": 8.89674418604651,
+        "Average Dispatch Time": 6.296728971962616,
+        "Average Total Time": 29.896261682242976
+    },
+    {
+        "Neighborhood": "Milwaukee Junction",
+        "Average Total Response Time": 4.118617021276596,
+        "Average Dispatch Time": 2.23646408839779,
+        "Average Total Time": 24.827659574468072
+    },
+    {
+        "Neighborhood": "Minock Park",
+        "Average Total Response Time": 8.670588235294119,
+        "Average Dispatch Time": 6.547999999999999,
+        "Average Total Time": 39.17254901960785
+    },
+    {
+        "Neighborhood": "Mohican Regent",
+        "Average Total Response Time": 9.843396226415095,
+        "Average Dispatch Time": 6.153571428571426,
+        "Average Total Time": 29.33302180685357
+    },
+    {
+        "Neighborhood": "Morningside",
+        "Average Total Response Time": 14.486080586080588,
+        "Average Dispatch Time": 11.130223880597011,
+        "Average Total Time": 42.80397830018082
+    },
+    {
+        "Neighborhood": "Moross-Morang",
+        "Average Total Response Time": 15.241504178272974,
+        "Average Dispatch Time": 9.794378698224843,
+        "Average Total Time": 53.284033613445395
+    },
+    {
+        "Neighborhood": "Mount Olivet",
+        "Average Total Response Time": 6.199655765920828,
+        "Average Dispatch Time": 4.235726795096323,
+        "Average Total Time": 24.07636054421769
+    },
+    {
+        "Neighborhood": "NW Goldberg",
+        "Average Total Response Time": 4.314236111111109,
+        "Average Dispatch Time": 1.823913043478261,
+        "Average Total Time": 26.13916083916085
+    },
+    {
+        "Neighborhood": "Nardin Park",
+        "Average Total Response Time": 2.5209174311926605,
+        "Average Dispatch Time": 1.5091846298031864,
+        "Average Total Time": 16.664010989010983
+    },
+    {
+        "Neighborhood": "New Center",
+        "Average Total Response Time": 0.8128014842300558,
+        "Average Dispatch Time": 0.4089803554724042,
+        "Average Total Time": 12.574511627906988
+    },
+    {
+        "Neighborhood": "New Center Commons",
+        "Average Total Response Time": 5.051181102362205,
+        "Average Dispatch Time": 1.8784482758620697,
+        "Average Total Time": 25.09921259842519
+    },
+    {
+        "Neighborhood": "Nolan",
+        "Average Total Response Time": 8.732178770949718,
+        "Average Dispatch Time": 6.3978260869565196,
+        "Average Total Time": 25.053905390539047
+    },
+    {
+        "Neighborhood": "North Campau",
+        "Average Total Response Time": 7.403370786516851,
+        "Average Dispatch Time": 4.552631578947368,
+        "Average Total Time": 29.073888888888884
+    },
+    {
+        "Neighborhood": "North Corktown",
+        "Average Total Response Time": 3.5761194029850745,
+        "Average Dispatch Time": 1.7839694656488552,
+        "Average Total Time": 20.559629629629637
+    },
+    {
+        "Neighborhood": "North End",
+        "Average Total Response Time": 3.654352941176471,
+        "Average Dispatch Time": 1.5186732186732184,
+        "Average Total Time": 21.88494117647057
+    },
+    {
+        "Neighborhood": "North LaSalle",
+        "Average Total Response Time": 9.216326530612246,
+        "Average Dispatch Time": 5.239572192513371,
+        "Average Total Time": 29.5520202020202
+    },
+    {
+        "Neighborhood": "North Rosedale Park",
+        "Average Total Response Time": 10.297630331753556,
+        "Average Dispatch Time": 8.730476190476192,
+        "Average Total Time": 33.76777251184833
+    },
+    {
+        "Neighborhood": "Northeast Central District",
+        "Average Total Response Time": 4.653968253968253,
+        "Average Dispatch Time": 2.8535135135135135,
+        "Average Total Time": 27.012631578947374
+    },
+    {
+        "Neighborhood": "Northwest Community",
+        "Average Total Response Time": 13.148648648648651,
+        "Average Dispatch Time": 9.210144927536232,
+        "Average Total Time": 40.71351351351352
+    },
+    {
+        "Neighborhood": "Nortown",
+        "Average Total Response Time": 7.514486921529175,
+        "Average Dispatch Time": 4.771370143149282,
+        "Average Total Time": 26.926800000000004
+    },
+    {
+        "Neighborhood": "O'Hair Park",
+        "Average Total Response Time": 11.917771883289126,
+        "Average Dispatch Time": 7.758490566037735,
+        "Average Total Time": 38.093650793650795
+    },
+    {
+        "Neighborhood": "Oak Grove",
+        "Average Total Response Time": 5.289256198347108,
+        "Average Dispatch Time": 3.4200413223140496,
+        "Average Total Time": 21.20339157245632
+    },
+    {
+        "Neighborhood": "Oakman Blvd Community",
+        "Average Total Response Time": 7.814639639639638,
+        "Average Dispatch Time": 5.266002344665888,
+        "Average Total Time": 28.299999999999997
+    },
+    {
+        "Neighborhood": "Oakwood Heights",
+        "Average Total Response Time": 10.460526315789474,
+        "Average Dispatch Time": 5.173529411764706,
+        "Average Total Time": 39.48157894736841
+    },
+    {
+        "Neighborhood": "Old Redford",
+        "Average Total Response Time": 11.455696202531644,
+        "Average Dispatch Time": 9.634615384615387,
+        "Average Total Time": 36.37283950617284
+    },
+    {
+        "Neighborhood": "Outer Drive-Hayes",
+        "Average Total Response Time": 12.1390625,
+        "Average Dispatch Time": 8.774332344213649,
+        "Average Total Time": 42.75634807417975
+    },
+    {
+        "Neighborhood": "Palmer Park",
+        "Average Total Response Time": 8.531226765799254,
+        "Average Dispatch Time": 5.298076923076923,
+        "Average Total Time": 27.843656716417904
+    },
+    {
+        "Neighborhood": "Palmer Woods",
+        "Average Total Response Time": 1.111254851228978,
+        "Average Dispatch Time": 0.6602331606217616,
+        "Average Total Time": 12.041860465116265
+    },
+    {
+        "Neighborhood": "Paveway",
+        "Average Total Response Time": 11.156716417910447,
+        "Average Dispatch Time": 10.352459016393443,
+        "Average Total Time": 34.648529411764706
+    },
+    {
+        "Neighborhood": "Pembroke",
+        "Average Total Response Time": 12.96428571428571,
+        "Average Dispatch Time": 5.438636363636366,
+        "Average Total Time": 55.035353535353515
+    },
+    {
+        "Neighborhood": "Penrose",
+        "Average Total Response Time": 12.648571428571426,
+        "Average Dispatch Time": 9.554455445544555,
+        "Average Total Time": 32.74476190476191
+    },
+    {
+        "Neighborhood": "Pershing",
+        "Average Total Response Time": 8.697633136094673,
+        "Average Dispatch Time": 5.894545454545454,
+        "Average Total Time": 33.36964285714286
+    },
+    {
+        "Neighborhood": "Petoskey-Otsego",
+        "Average Total Response Time": 7.238622754491021,
+        "Average Dispatch Time": 4.073717948717948,
+        "Average Total Time": 27.852522255192902
+    },
+    {
+        "Neighborhood": "Piety Hill",
+        "Average Total Response Time": 4.459893048128342,
+        "Average Dispatch Time": 1.9079096045197732,
+        "Average Total Time": 23.30222222222222
+    },
+    {
+        "Neighborhood": "Pilgrim Village",
+        "Average Total Response Time": 16.09094650205761,
+        "Average Dispatch Time": 11.757333333333333,
+        "Average Total Time": 42.24057377049183
+    },
+    {
+        "Neighborhood": "Pingree Park",
+        "Average Total Response Time": 14.312500000000002,
+        "Average Dispatch Time": 10.721176470588237,
+        "Average Total Time": 39.35568181818179
+    },
+    {
+        "Neighborhood": "Plymouth-Hubbell",
+        "Average Total Response Time": 8.973019801980195,
+        "Average Dispatch Time": 5.884575835475579,
+        "Average Total Time": 41.0382926829268
+    },
+    {
+        "Neighborhood": "Plymouth-I96",
+        "Average Total Response Time": 4.025362318840579,
+        "Average Dispatch Time": 1.9197080291970803,
+        "Average Total Time": 23.80503597122303
+    },
+    {
+        "Neighborhood": "Poletown East",
+        "Average Total Response Time": 2.7110047846889955,
+        "Average Dispatch Time": 1.9229468599033812,
+        "Average Total Time": 18.2484412470024
+    },
+    {
+        "Neighborhood": "Pride Area Community",
+        "Average Total Response Time": 9.171428571428573,
+        "Average Dispatch Time": 7.171978021978021,
+        "Average Total Time": 26.908465608465622
+    },
+    {
+        "Neighborhood": "Pulaski",
+        "Average Total Response Time": 11.245081967213121,
+        "Average Dispatch Time": 8.011853448275861,
+        "Average Total Time": 33.42296747967481
+    },
+    {
+        "Neighborhood": "Ravendale",
+        "Average Total Response Time": 13.417171717171717,
+        "Average Dispatch Time": 9.386315789473683,
+        "Average Total Time": 39.63232323232323
+    },
+    {
+        "Neighborhood": "Regent Park",
+        "Average Total Response Time": 11.14005102040816,
+        "Average Dispatch Time": 7.282399999999996,
+        "Average Total Time": 37.026641414141395
+    },
+    {
+        "Neighborhood": "Riverbend",
+        "Average Total Response Time": 4.2631707317073175,
+        "Average Dispatch Time": 3.1022085889570556,
+        "Average Total Time": 22.297680097680093
+    },
+    {
+        "Neighborhood": "Riverdale",
+        "Average Total Response Time": 13.149305555555552,
+        "Average Dispatch Time": 10.386131386861317,
+        "Average Total Time": 45.346527777777766
+    },
+    {
+        "Neighborhood": "Rivertown",
+        "Average Total Response Time": 4.176623376623377,
+        "Average Dispatch Time": 2.8011406844106466,
+        "Average Total Time": 25.681970260223068
+    },
+    {
+        "Neighborhood": "Rosedale Park",
+        "Average Total Response Time": 7.203118503118501,
+        "Average Dispatch Time": 5.6540254237288154,
+        "Average Total Time": 18.044791666666665
+    },
+    {
+        "Neighborhood": "Rouge Park",
+        "Average Total Response Time": 11.127083333333331,
+        "Average Dispatch Time": 8.170526315789473,
+        "Average Total Time": 31.5031914893617
+    },
+    {
+        "Neighborhood": "Russell Industrial",
+        "Average Total Response Time": 3.908823529411765,
+        "Average Dispatch Time": 1.1612903225806452,
+        "Average Total Time": 19.78235294117647
+    },
+    {
+        "Neighborhood": "Russell Woods",
+        "Average Total Response Time": 5.933725490196077,
+        "Average Dispatch Time": 3.2476793248945146,
+        "Average Total Time": 29.840316205533583
+    },
+    {
+        "Neighborhood": "San Bernardo",
+        "Average Total Response Time": 16.34423076923077,
+        "Average Dispatch Time": 9.395098039215684,
+        "Average Total Time": 44.2798076923077
+    },
+    {
+        "Neighborhood": "Schaefer 7/8 Lodge",
+        "Average Total Response Time": 22.205524861878448,
+        "Average Dispatch Time": 13.65029585798817,
+        "Average Total Time": 61.44426229508194
+    },
+    {
+        "Neighborhood": "Schoolcraft Southfield",
+        "Average Total Response Time": 10.196289752650175,
+        "Average Dispatch Time": 6.824067164179102,
+        "Average Total Time": 34.77720848056537
+    },
+    {
+        "Neighborhood": "Schulze",
+        "Average Total Response Time": 17.16637168141592,
+        "Average Dispatch Time": 12.125874125874128,
+        "Average Total Time": 53.514569536423814
+    },
+    {
+        "Neighborhood": "Seven Mile Lodge",
+        "Average Total Response Time": 16.324324324324323,
+        "Average Dispatch Time": 10.35151515151515,
+        "Average Total Time": 66.47499999999998
+    },
+    {
+        "Neighborhood": "Seven Mile-Rouge",
+        "Average Total Response Time": 13.866494845360831,
+        "Average Dispatch Time": 8.597326203208555,
+        "Average Total Time": 44.952307692307684
+    },
+    {
+        "Neighborhood": "Sherwood",
+        "Average Total Response Time": 10.255238095238095,
+        "Average Dispatch Time": 8.393333333333334,
+        "Average Total Time": 48.27692307692306
+    },
+    {
+        "Neighborhood": "Sherwood Forest",
+        "Average Total Response Time": 3.2063157894736833,
+        "Average Dispatch Time": 1.953061224489796,
+        "Average Total Time": 21.00816326530613
+    },
+    {
+        "Neighborhood": "South of Six",
+        "Average Total Response Time": 27.438888888888886,
+        "Average Dispatch Time": 21.4433962264151,
+        "Average Total Time": 70.44716981132076
+    },
+    {
+        "Neighborhood": "Southfield Plymouth",
+        "Average Total Response Time": 5.357264957264957,
+        "Average Dispatch Time": 2.8234234234234226,
+        "Average Total Time": 25.16068376068375
+    },
+    {
+        "Neighborhood": "Springwells",
+        "Average Total Response Time": 8.574122807017538,
+        "Average Dispatch Time": 4.601866251944013,
+        "Average Total Time": 32.34192139737989
+    },
+    {
+        "Neighborhood": "State Fair",
+        "Average Total Response Time": 8.719101123595506,
+        "Average Dispatch Time": 5.813793103448276,
+        "Average Total Time": 29.129213483146074
+    },
+    {
+        "Neighborhood": "Tech Town",
+        "Average Total Response Time": 5.578212290502793,
+        "Average Dispatch Time": 0.5889570552147236,
+        "Average Total Time": 54.307978723404275
+    },
+    {
+        "Neighborhood": "The Eye",
+        "Average Total Response Time": 23.480799999999995,
+        "Average Dispatch Time": 18.568253968253966,
+        "Average Total Time": 47.95193798449614
+    },
+    {
+        "Neighborhood": "Tri-Point",
+        "Average Total Response Time": 12.849999999999998,
+        "Average Dispatch Time": 7.999999999999999,
+        "Average Total Time": 32.39310344827586
+    },
+    {
+        "Neighborhood": "University District",
+        "Average Total Response Time": 5.330303030303029,
+        "Average Dispatch Time": 3.7548262548262543,
+        "Average Total Time": 20.572075471698117
+    },
+    {
+        "Neighborhood": "Virginia Park",
+        "Average Total Response Time": 12.87037037037037,
+        "Average Dispatch Time": 9.474074074074073,
+        "Average Total Time": 36.37407407407408
+    },
+    {
+        "Neighborhood": "Von Steuben",
+        "Average Total Response Time": 9.299705882352942,
+        "Average Dispatch Time": 6.170820668693007,
+        "Average Total Time": 37.382789317507424
+    },
+    {
+        "Neighborhood": "Wade",
+        "Average Total Response Time": 10.19426751592357,
+        "Average Dispatch Time": 6.879084967320262,
+        "Average Total Time": 40.04240506329115
+    },
+    {
+        "Neighborhood": "Warren Ave Community",
+        "Average Total Response Time": 11.98681672025723,
+        "Average Dispatch Time": 8.498981324278432,
+        "Average Total Time": 35.97340764331209
+    },
+    {
+        "Neighborhood": "Warrendale",
+        "Average Total Response Time": 14.034075211051427,
+        "Average Dispatch Time": 9.755123113582217,
+        "Average Total Time": 44.7198156682027
+    },
+    {
+        "Neighborhood": "Waterworks Park",
+        "Average Total Response Time": 25.666666666666668,
+        "Average Dispatch Time": 26.04,
+        "Average Total Time": 55.15
+    },
+    {
+        "Neighborhood": "Wayne State",
+        "Average Total Response Time": 1.2372594303310236,
+        "Average Dispatch Time": 0.46197295147175826,
+        "Average Total Time": 27.504125286478228
+    },
+    {
+        "Neighborhood": "We Care Community",
+        "Average Total Response Time": 12.055021834061135,
+        "Average Dispatch Time": 8.151569506726457,
+        "Average Total Time": 37.8186956521739
+    },
+    {
+        "Neighborhood": "Weatherby",
+        "Average Total Response Time": 6.350775193798449,
+        "Average Dispatch Time": 4.397580645161291,
+        "Average Total Time": 25.694208494208507
+    },
+    {
+        "Neighborhood": "West End",
+        "Average Total Response Time": 9.734710743801656,
+        "Average Dispatch Time": 6.031843575418992,
+        "Average Total Time": 39.88333333333332
+    },
+    {
+        "Neighborhood": "West Outer Drive",
+        "Average Total Response Time": 13.612820512820512,
+        "Average Dispatch Time": 6.221621621621622,
+        "Average Total Time": 38.942105263157885
+    },
+    {
+        "Neighborhood": "West Side Industrial",
+        "Average Total Response Time": 7.156372549019606,
+        "Average Dispatch Time": 3.783163265306122,
+        "Average Total Time": 35.49320388349513
+    },
+    {
+        "Neighborhood": "West Village",
+        "Average Total Response Time": 5.5249999999999995,
+        "Average Dispatch Time": 2.654054054054054,
+        "Average Total Time": 20.97777777777778
+    },
+    {
+        "Neighborhood": "West Virginia Park",
+        "Average Total Response Time": 8.4,
+        "Average Dispatch Time": 1.6666666666666667,
+        "Average Total Time": 32.96666666666667
+    },
+    {
+        "Neighborhood": "Westwood Park",
+        "Average Total Response Time": 14.012790697674417,
+        "Average Dispatch Time": 11.127710843373496,
+        "Average Total Time": 33.48823529411764
+    },
+    {
+        "Neighborhood": "Wildemere Park",
+        "Average Total Response Time": 8.444086021505377,
+        "Average Dispatch Time": 4.672413793103448,
+        "Average Total Time": 35.901075268817195
+    },
+    {
+        "Neighborhood": "Winship",
+        "Average Total Response Time": 14.998574821852731,
+        "Average Dispatch Time": 9.49261083743842,
+        "Average Total Time": 56.46126760563378
+    },
+    {
+        "Neighborhood": "Woodbridge",
+        "Average Total Response Time": 2.4670520231213877,
+        "Average Dispatch Time": 1.2119047619047616,
+        "Average Total Time": 40.26589595375723
+    },
+    {
+        "Neighborhood": "Yorkshire Woods",
+        "Average Total Response Time": 18.69521912350596,
+        "Average Dispatch Time": 12.80452674897119,
+        "Average Total Time": 53.48063241106724
+    }
+]
